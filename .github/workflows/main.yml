@@ -49,7 +49,7 @@ on:
 
 jobs:
   repack-super:
-    runs-on: self
+    runs-on: self-hosted
     permissions:
       contents: write
     steps:
